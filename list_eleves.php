@@ -13,7 +13,7 @@ $students = [
     "Nicolas"   => 19
 ];
 
-$nbstudents=count$students;
+$nbstudents=count($students);
 /*$total=array_sum($students);*/
 
 foreach ($students as $key => $age) {
